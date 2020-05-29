@@ -23,4 +23,4 @@ This script (at a high-level) performs these steps (these essentially mimic the 
 4. changing the values representing activity to the string desription
 5. summarizing column averages for each combination of activity and subject
 
-For more details, see comments in source code
+For more details, see comments in source code (run_analysis.R)
