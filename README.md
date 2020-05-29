@@ -12,6 +12,9 @@
 ### Assumptions
 - .zip file containing Samsung activity data has (1) already been downloaded, and (2) has been extracted into the  "UCI HAR Dataset" folder in the working directory
 
+### Libraries needed to install:
+- dplyr
+
 ### Steps
 This script (at a high-level) performs these steps (these essentially mimic the goals from above):
 1. combining 2 separate data sets (training and test)
